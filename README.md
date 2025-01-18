@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Abith004
+- 👋 Hi, I’m @Abith M S
 - 👀 I’m interested in Coding, Playing Cricket, Watching movies
 - 🌱 I’m currently learned Java full stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @abithms403@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Abith004/Abith004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: ...The first computer bug was a real bug! In 1947, engineers working on the Harvard Mark II computer found a moth stuck in a relay, causing an error. They taped it into their logbook and called it "debugging" the system!
